@@ -20,16 +20,44 @@
 تمامی سفارشات با متود گت ارسال میشود.
 
 ### لایک
-```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/Sg1CJ&count=100&type=like```
+```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/abcd&count=100&type=like```
 
+```
+{
+  "token":"f0e3a57a110e8fe192526ebebfc8962f",
+  "link" : "https://www.aparat.com/v/abcde",
+  "count": 500,
+  "type": "like"
+}
+
+```
 
 ### ویو
 ```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/Sg1CJ&count=100&type=view```
+
+```
+{
+  "token":"f0e3a57a110e8fe192526ebebfc8962f",
+  "link" : "https://www.aparat.com/v/abcde",
+  "count": 500,
+  "type": "view"
+}
+
+```
 
 
 ### فالور
 ```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/Sg1CJ&count=100&type=follow```
 
+```
+{
+  "token":"f0e3a57a110e8fe192526ebebfc8962f",
+  "link" : "https://www.aparat.com/v/abcde",
+  "count": 500,
+  "type": "follow"
+}
+
+```
 
 ## وضعیت سفارش 
 ```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&uniqid=61b4cf4755e6g```
