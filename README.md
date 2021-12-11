@@ -50,9 +50,9 @@
 ## پشتیبانی :
 در صورتی که در هر مرحله مشکلی داشتید میتوانید به پشتیبانی پیام دهید.
 
-[کانال پشتیبانی](https://t.me/gray_support_bot)
+[کانال پشتیبانی](https://t.me/S3CURITY_GRAY)
 
-[ربات پشتیبانی](https://t.me/S3CURITY_GRAY)
+[ربات پشتیبانی](https://t.me/gray_support_bot)
 
 [ربات اصلی خدمات اپارات](https://t.me/aparaat_bot)
 
