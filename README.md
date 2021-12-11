@@ -16,6 +16,13 @@
 
 ```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f```
 
+```
+{
+  "token":"f0e3a57a110e8fe192526ebebfc8962f"
+}
+
+```
+
 ## نحوه سفارش : 
 تمامی سفارشات با متود گت ارسال میشود.
 
@@ -33,7 +40,7 @@
 ```
 
 ### ویو
-```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/Sg1CJ&count=100&type=view```
+```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/abcde&count=100&type=view```
 
 ```
 {
@@ -47,7 +54,7 @@
 
 
 ### فالور
-```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/Sg1CJ&count=100&type=follow```
+```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/abcde&count=100&type=follow```
 
 ```
 {
@@ -62,6 +69,13 @@
 ## وضعیت سفارش 
 ```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&uniqid=61b4cf4755e6g```
 
+```
+{
+  "token":"f0e3a57a110e8fe192526ebebfc8962f",
+  "uniqid" : "61b4cf4755e6g"
+}
+
+```
 
 
 ## ریسپانس
