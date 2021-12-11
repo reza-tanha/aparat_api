@@ -16,6 +16,7 @@
 ```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f```
 
 ## نحوه سفارش : 
+تمامی سفارشات با متود گت ارسال میشود.
 
 ### لایک
 ```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/Sg1CJ&count=100&type=like```
