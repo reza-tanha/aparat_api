@@ -54,7 +54,7 @@
 ```
 
 ### زمان مشاهده
-* زمان مشاهده باید به دقیقه وارد شد در مثال زیر 100 دقیقه شده است
+* زمان مشاهده باید به دقیقه وارد شد در مثال زیر 100 دقیقه شده است .
 ```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/abcde&count=100&type=view_pro```
 
 ```
