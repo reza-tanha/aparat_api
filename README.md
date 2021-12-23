@@ -9,7 +9,8 @@
 - count : (برای سفارش الزامی) : تعداد درخواستی جهت سفارش
 - uniqid : (برای دیدن وضعیت سفارش الزامی) : بعد از هر سفارش یک ایدی یونیک برای ان سفارش ایجاد میشود جهت دیدن وضعیت سفارش
 - type : (برای سفارش الزامی) : نوع سفارش شما که به سه قسمت تقسیم میشود
-  - [like, view, follow]
+  - [like, view, follow, view_pro]
+  - view_pro => همان واچ تایم میباشد و مقدار ورودی باید به دقیقه باشد . 
 
 
 ## گرفتن اطلاعات و موجودی توکن :
@@ -52,6 +53,19 @@
 
 ```
 
+### زمان مشاهده
+* زمان مشاهده باید به دقیقه وارد شد در مثال زیر 100 دقیقه شده است
+```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/abcde&count=100&type=view_pro```
+
+```
+{
+  "token":"f0e3a57a110e8fe192526ebebfc8962f",
+  "link" : "https://www.aparat.com/v/abcde",
+  "count": 500,
+  "type": "view_pro"
+}
+
+```
 
 ### فالور
 ```https://sec-gray.ir/aparat/api.php?token=f0e3a57a110e8fe192526ebebfc8962f&link=https://www.aparat.com/v/abcde&count=100&type=follow```
